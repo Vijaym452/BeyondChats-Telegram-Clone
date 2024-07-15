@@ -35,7 +35,7 @@ Check out the live demo [here](https://nvk-beyondchats.netlify.app/).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/telegram-ui-replica.git
+   git clone [https://github.com/yourusername/telegram-ui-replica.git](https://github.com/Vijaym452/BeyondChats-Telegram-Clone.git)
    cd telegram-ui-replica
    ```
 
